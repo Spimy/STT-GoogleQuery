@@ -12,7 +12,7 @@ A Google Query Using Speech to Text made in Python3
 8. Google opens and searches your query
 
 # Install Modules
-To install modules required after installing Python3, run:
+To install modules required after installing Python3, run in Command Promp/Powershell:
 1. pip install tkinter
 2. pip install PyAudio
 3. pip install SpeechRecognition
