@@ -19,7 +19,7 @@ To install modules required after installing Python3, run:
 
 If PyAudio doesn't install, download PyAudio at: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
 Then, shift+right click at the location of where it was downloaded and open Command Promt/Powershell
-Once done, run "pip install <name of the file.whl>"
+Once done, run "pip install <name_of_the_file.whl>"
 
 # Side Note
 Currently working only for English language!
