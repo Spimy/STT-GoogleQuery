@@ -17,8 +17,8 @@ To install modules required after installing Python3, run:
 2. pip install PyAudio
 3. pip install SpeechRecognition
 
-If PyAudio doesn't install, download PyAudio at: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
-Then, shift+right click at the location of where it was downloaded and open Command Promt/Powershell
+If PyAudio doesn't install, download PyAudio at: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio \n
+Then, shift+right click at the location of where it was downloaded and open Command Promt/Powershell \n
 Once done, run "pip install <name_of_the_file.whl>"
 
 # Side Note
