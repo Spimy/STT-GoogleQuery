@@ -13,13 +13,13 @@ A Google Query Using Speech to Text made in Python3
 
 # Install Modules
 To install modules required after installing Python3, run in Command Promp/Powershell:
-1. pip install tkinter
-2. pip install PyAudio
-3. pip install SpeechRecognition
+1. pip3 install tkinter
+2. pip3 install PyAudio
+3. pip3 install SpeechRecognition
 
 If PyAudio doesn't install, download PyAudio at: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio <br />
 Then, shift+right click at the location of where it was downloaded and open Command Promt/Powershell <br />
-Once done, run "pip install <name_of_the_file.whl>"
+Once done, run "pip3 install <name_of_the_file.whl>"
 
 # Side Note
 Currently working only for English language!
